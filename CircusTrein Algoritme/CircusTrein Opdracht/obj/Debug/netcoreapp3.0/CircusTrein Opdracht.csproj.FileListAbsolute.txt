@@ -1,0 +1,11 @@
+C:\Users\PC1\Documents\CircusTrein Opdracht\bin\Debug\netcoreapp3.0\CircusTrein Opdracht.exe
+C:\Users\PC1\Documents\CircusTrein Opdracht\bin\Debug\netcoreapp3.0\CircusTrein Opdracht.deps.json
+C:\Users\PC1\Documents\CircusTrein Opdracht\bin\Debug\netcoreapp3.0\CircusTrein Opdracht.runtimeconfig.json
+C:\Users\PC1\Documents\CircusTrein Opdracht\bin\Debug\netcoreapp3.0\CircusTrein Opdracht.runtimeconfig.dev.json
+C:\Users\PC1\Documents\CircusTrein Opdracht\bin\Debug\netcoreapp3.0\CircusTrein Opdracht.dll
+C:\Users\PC1\Documents\CircusTrein Opdracht\bin\Debug\netcoreapp3.0\CircusTrein Opdracht.pdb
+C:\Users\PC1\Documents\CircusTrein Opdracht\obj\Debug\netcoreapp3.0\CircusTrein Opdracht.AssemblyInfoInputs.cache
+C:\Users\PC1\Documents\CircusTrein Opdracht\obj\Debug\netcoreapp3.0\CircusTrein Opdracht.AssemblyInfo.cs
+C:\Users\PC1\Documents\CircusTrein Opdracht\obj\Debug\netcoreapp3.0\CircusTrein Opdracht.dll
+C:\Users\PC1\Documents\CircusTrein Opdracht\obj\Debug\netcoreapp3.0\CircusTrein Opdracht.pdb
+C:\Users\PC1\Documents\CircusTrein Opdracht\obj\Debug\netcoreapp3.0\CircusTrein Opdracht.csprojAssemblyReference.cache
